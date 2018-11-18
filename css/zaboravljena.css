@@ -403,9 +403,8 @@ fieldset[disabled] .btn-xl.focus {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url("../img/triangle.png");
-  background-repeat: repeat;
-  background-attachment: scroll;
+  background: url('../img/busLogin.jpg') center center fixed;
+  background-size: cover; 
 }
 
 #login #close,
@@ -506,7 +505,7 @@ fieldset[disabled] .btn-xl.focus {
 #sadrzaj1 {
   top: -120px;
   height: 600px;
-  background: #ffc107;
+  background: rgba(212, 213, 218, 0.8);
 }
 
 #sadrzaj1 #m1 {

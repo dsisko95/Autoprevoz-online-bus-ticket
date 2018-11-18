@@ -699,10 +699,7 @@ section h3.section-subheading {
 }
 
 #services {
-  background-image: url("../img/line.jpg");
-  background-repeat: repeat-x;
-  background-attachment: scroll;
-  background-position: center center;
+  background: #88CCCB;
 }
 
 #services span#strela {

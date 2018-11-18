@@ -994,7 +994,7 @@ body {
   width: 90px;
   height: 90px;
   position: relative;
-  top: -35px;
+  top: -43px;
 }
 
 #services h2 {
@@ -1180,10 +1180,7 @@ body {
 }
 
 #services {
-  background-image: url("../img/travel.jpg");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
+  background: #88CCCB;
 }
 
 #services input#grad_od,
